@@ -1,0 +1,27 @@
+# apt update
+# apt install -y pkg-config libmysqlclient-dev python3-dev python3-pip build-essential
+# apt update && apt install ffmpeg -y
+# pip install --upgrade packaging
+
+
+
+ffmpeg-python
+mysqlclient
+elasticsearch
+tritonclient[all]
+numpy==1.23.5 
+loguru
+scikit-image
+tqdm
+lap
+setuptools==65.5.1
+filterpy
+cython-bbox
+zmq
+powerboxes
+python-dotenv
+protobuf==3.20.*
+flask
+lru-dict
+
+

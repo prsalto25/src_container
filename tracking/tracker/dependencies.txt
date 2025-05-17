@@ -1,0 +1,3 @@
+lap==0.4.0
+cython==0.29.24
+cython-bbox==0.1.3

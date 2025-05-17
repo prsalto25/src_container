@@ -1,0 +1,36 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+env/
+.venv/
+.env/
+
+# Git
+.git/
+.gitignore
+
+# Logs
+*.log
+
+# OS junk files
+.DS_Store
+Thumbs.db
+
+# IDE and editor files
+.vscode/
+*.swp
+
+# Video or resource folders (if mounted externally)
+videos/
+resources/
+
+# Other archives or temp files
+*.zip
+*.tar
+*.tar.gz
+*.bak

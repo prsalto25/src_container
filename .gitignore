@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.env
+*.env
+*.log
+.vscode/
+.idea/
+.DS_Store
+
+# Video or resource folders (if mounted externally)
+videos/
+resources/
