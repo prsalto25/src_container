@@ -119,7 +119,7 @@ class ANPR(AlertsVA):
         - If whitelist or blacklist is provided: only alert with ticket if plate is in either.
         - If both are None: always alert with ticket.
         """
-        date = datetime.now().strftime("%Y-%m-%d_%H:%M:%S")
+        date = datetime.now().strftime("%Y-%-m-%-d_%H:%M:%S")
         id_ = str(uuid.uuid4())
         image_fname = f"{date}_{id_}.jpg"
         video_fname = f"{date}_{id_}_video.mp4"
