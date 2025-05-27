@@ -1,4 +1,4 @@
-image="juliussin/algo_ultralytics:0.1.0"
+image="juliussin/algo_ultralytics:0.1.1"
 container="algo_ultralytics"
 
 # Define the base directory for dashboard resources
